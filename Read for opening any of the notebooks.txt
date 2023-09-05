@@ -1,0 +1,32 @@
+Beware!!!
+Please read the document before running any of the notebooks.
+Running the notebook before reading this document will cause to lose all valuable outputs.
+Here is the link of my article on Medium.
+https://medium.com/@ryanjovanovic/natural-disasters-b6c0bc5fac17
+
+
+
+For the Regression notebook, there are no major concerns.
+Just make sure that the csv file is within the same folder as the notebook.
+Also note that running the Relplot code, where we graphs the numerical values vs datetime.
+It will take some time to execute the graphs.
+
+
+
+For the NLP notebook, I removed my personal API key.
+With a string of XXXXXX.
+This is so that the reader can input their own private API key.
+Once they do, they could full run the code.
+You will also need to run the notebook on Google Collab.
+
+
+
+For the CNN notebook, you will need to run it on Google Collab.
+Also uploading the image dataset on your google drive.
+Depending on how you upload it, you will need to update the path on the notebook.
+To obtain the image dataset, here is the site I used.
+I took the first 201 images (so from 0 to 200).
+https://www.kaggle.com/datasets/rupakroy/cyclone-wildfire-flood-earthquake-database
+Please be aware that running this notebook is very consumming on time and your computer.
+I was able to focus a vast majority on my PC to run this notebook at a very fast speed.
+So please consider to do this as well. 
